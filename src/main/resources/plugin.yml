@@ -1,0 +1,7 @@
+name: WorldAlias
+version: '1.0'
+main: top.alazeprt.WorldAlias
+api-version: '1.20'
+authors: [ alazeprt ]
+depend:
+  - PlaceholderAPI
